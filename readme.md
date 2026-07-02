@@ -31,7 +31,7 @@ By completing this guide, readers will gain a solid understanding of:
 5. [The Standard Library](./topics/topicFive.md)
 6. [Loops](./topics/topicSix.md)
 7. [Booleans & Conditionals](./topics/topicSeven.md)
-8. Using Functions
+8. [Using Functions](./topics/topicEight.md)
 9. Functions with Multiple Return Values
 10. Package Scope
 11. Maps

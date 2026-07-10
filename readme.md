@@ -32,17 +32,17 @@ By completing this guide, readers will gain a solid understanding of:
 6. [Loops](./topics/topicSix.md)
 7. [Booleans & Conditionals](./topics/topicSeven.md)
 8. [Using Functions](./topics/topicEight.md)
-9. Functions with Multiple Return Values
-10. Package Scope
-11. Maps
-12. Pass By Value
-13. Pointers
-14. Receiver Functions
-15. Receiver Functions with Pointers
-16. User Input
-17. Switch Statements
-18. Parsing Floats
-19. Saving Files
-20. Interfaces
+9. [Functions with Multiple Return Values](./topics/topicEight.md)
+10. [Package Scope](./topics/topicTen.md)
+11. [Maps](./topics/topicEleven.md)
+12. [Pass By Value](./topics/tpoicTwelve.md)
+13. [Pointers](./topics/topicThirteen.md)
+14. [Type Structs](./topics/tpoicFourteen.md) 
+15. [Receiver Functions](./topics/topicFifteen.md)
+16. [User Input](./topics/topicSixteen.md)
+17. [Switch Statements](./topics/topicSeventeen.md)
+18. [Parsing Floats](./topics/topicEighteen.md)
+19. [Saving Files](./topics/topicNineteen.md)
+20. [Interfaces](./topics/topicTwenty.md)
 
 The goal of this guide is not only to explain the syntax of Go but also to help readers understand the reasoning behind common Go programming patterns and best practices.
